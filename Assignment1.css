@@ -31,6 +31,7 @@ h2 {
     width: 40%;
     text-align: center;
     margin: 0% 0% 0% 60%;
+    background-color: lightsalmon;
 }
 
 h2.chicken {
@@ -39,10 +40,6 @@ h2.chicken {
 
 h2.beef {
     background-color: lightgray;
-}
-
-h2.sushi {
-    background-color: lightsalmon;
 }
 
 p {
